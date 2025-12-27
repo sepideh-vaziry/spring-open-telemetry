@@ -1,0 +1,8 @@
+### Greeting with path variable
+GET http://localhost:8080/greet/Sepideh
+
+### Slow operation (500ms)
+GET http://localhost:8080/slow
+
+### Very slow operation (500ms)
+GET http://localhost:8080/very-slow
